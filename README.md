@@ -1,4 +1,4 @@
-(Download the raw readme file to read the things properly because without download here it looks a bit messy)
+(Download/ View the raw readme file(readme) to read the things properly because without download here it looks a bit messy)
 # Credit_wise_Loan_Sysytem_Supervised_Model
 
 Problem Statement
